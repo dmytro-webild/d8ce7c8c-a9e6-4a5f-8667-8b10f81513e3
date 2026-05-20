@@ -131,7 +131,7 @@ export default function LandingPage() {
           title: "Investment Reach",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/husband-wife-deliberating-car-showroom-deciding-price-pay_482257-123988.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/husband-wife-deliberating-car-showroom-deciding-price-pay_482257-123988.jpg?_wi=1"
       mediaAnimation="blur-reveal"
       metricsAnimation="slide-up"
     />
@@ -214,7 +214,7 @@ export default function LandingPage() {
           button: {
             text: "Consult Today",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/husband-wife-deliberating-car-showroom-deciding-price-pay_482257-123988.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/husband-wife-deliberating-car-showroom-deciding-price-pay_482257-123988.jpg?_wi=2",
           imageAlt: "luxury bank interior dark mode",
         },
         {
