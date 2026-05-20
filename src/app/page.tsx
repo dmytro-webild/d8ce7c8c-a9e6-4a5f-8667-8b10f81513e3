@@ -74,7 +74,7 @@ export default function LandingPage() {
               { value: "24/7", title: "Dedicated Support" },
               { value: "Global", title: "Investment Reach" },
             ]}
-            imageSrc="http://img.b2bpic.net/free-photo/husband-wife-deliberating-car-showroom-deciding-price-pay_482257-123988.jpg"
+            imageSrc="http://img.b2bpic.net/free-photo/husband-wife-deliberating-car-showroom-deciding-price-pay_482257-123988.jpg?_wi=1"
             mediaAnimation="blur-reveal"
             metricsAnimation="slide-up"
           />
@@ -102,7 +102,7 @@ export default function LandingPage() {
             useInvertedBackground={false}
             plans={[
               { id: "plan-1", title: "Growth", period: "annually", price: "Custom", features: ["Financial Planning", "Basic Asset Allocation", "Quarterly Reviews"], button: { text: "Consult Today" }, imageSrc: "http://img.b2bpic.net/free-photo/alpine-hotel-hosting-winter-sports_482257-102253.jpg", imageAlt: "luxury bank interior dark mode" },
-              { id: "plan-2", title: "Premier", period: "annually", price: "Custom", features: ["Holistic Wealth Management", "Dedicated Advisors", "Bespoke Tax Strategies"], button: { text: "Consult Today" }, imageSrc: "http://img.b2bpic.net/free-photo/husband-wife-deliberating-car-showroom-deciding-price-pay_482257-123988.jpg", imageAlt: "luxury bank interior dark mode" },
+              { id: "plan-2", title: "Premier", period: "annually", price: "Custom", features: ["Holistic Wealth Management", "Dedicated Advisors", "Bespoke Tax Strategies"], button: { text: "Consult Today" }, imageSrc: "http://img.b2bpic.net/free-photo/husband-wife-deliberating-car-showroom-deciding-price-pay_482257-123988.jpg?_wi=2", imageAlt: "luxury bank interior dark mode" },
               { id: "plan-3", title: "Elite", period: "annually", price: "Custom", features: ["Family Office Services", "Exclusive Private Placements", "Unrestricted Global Access"], button: { text: "Consult Today" }, imageSrc: "http://img.b2bpic.net/free-photo/confident-outline-business-side-face-male_1194-3839.jpg", imageAlt: "luxury bank interior dark mode" },
             ]}
             title="Investment Tiers"
